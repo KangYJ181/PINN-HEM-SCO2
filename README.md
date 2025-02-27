@@ -1,2 +1,2 @@
 # PINN-HEM-SCO2
-Source code of article "An interpretable physics-informed machine learning model for S-CO2 critical flow prediction under broad parameter conditions".
+Source code of article "HEM-constrained physics-informed neural network with SHAP-guided optimization for predicting S-CO2 critical flow across broad parameter conditions".
